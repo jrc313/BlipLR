@@ -9,6 +9,7 @@ BlipLR requires Lightroom 2 or higher.
 ## Install
 
 Installation is pretty straight forward:
+
 1. Copy the bliplr.lrplugin folder to where you normally keep your Lightroom plugins
 2. Open the Plugin Manager in Lightroom and add the BlipLR plugin folder.
 
