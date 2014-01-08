@@ -327,7 +327,7 @@ function BlipfotoAPI.uploadPhoto(entry)
 
 	info("Sending photo");
 	
-	local resource = "image";
+	local resource = "entry";
 	
 	local params =
 	{
